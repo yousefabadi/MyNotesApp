@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Mis notas</string>
+    <string name="add">añadir</string>
+    <string name="note_hint">Introduzca su nota aquí</string>
+    <string name="title_hint">Ingrese su título aquí</string>
+</resources>

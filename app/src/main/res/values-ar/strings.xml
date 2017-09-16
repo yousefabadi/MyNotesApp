@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ملاحظاتي</string>
+    <string name="add">اضافة</string>
+    <string name="note_hint">ادخل الوصف هنا</string>
+    <string name="title_hint">ادخل العنوان هنا</string>
+</resources>
